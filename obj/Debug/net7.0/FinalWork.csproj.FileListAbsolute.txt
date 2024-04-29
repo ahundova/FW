@@ -1,0 +1,14 @@
+D:\git_education\FinalWork\bin\Debug\net7.0\FinalWork.exe
+D:\git_education\FinalWork\bin\Debug\net7.0\FinalWork.deps.json
+D:\git_education\FinalWork\bin\Debug\net7.0\FinalWork.runtimeconfig.json
+D:\git_education\FinalWork\bin\Debug\net7.0\FinalWork.dll
+D:\git_education\FinalWork\bin\Debug\net7.0\FinalWork.pdb
+D:\git_education\FinalWork\obj\Debug\net7.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_education\FinalWork\obj\Debug\net7.0\FinalWork.AssemblyInfoInputs.cache
+D:\git_education\FinalWork\obj\Debug\net7.0\FinalWork.AssemblyInfo.cs
+D:\git_education\FinalWork\obj\Debug\net7.0\FinalWork.csproj.CoreCompileInputs.cache
+D:\git_education\FinalWork\obj\Debug\net7.0\FinalWork.dll
+D:\git_education\FinalWork\obj\Debug\net7.0\refint\FinalWork.dll
+D:\git_education\FinalWork\obj\Debug\net7.0\FinalWork.pdb
+D:\git_education\FinalWork\obj\Debug\net7.0\FinalWork.genruntimeconfig.cache
+D:\git_education\FinalWork\obj\Debug\net7.0\ref\FinalWork.dll
